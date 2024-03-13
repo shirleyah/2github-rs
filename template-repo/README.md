@@ -1,4 +1,4 @@
-# [Especificar el nombre del proyecto]
+# [Especificar el nombre del proyecto o del programa]
 
 
 [Descripción de la funcionalidad del script. Por ejemplo:
